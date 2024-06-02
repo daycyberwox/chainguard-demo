@@ -36,7 +36,6 @@ Resources:
         Fn::Base64: !Sub |
           #!/bin/bash
           apt-get update -y
-          apt install python3-pip
           curl -fsSL https://get.docker.com -o get-docker.sh 
           sh get-docker.sh
           groupadd docker
