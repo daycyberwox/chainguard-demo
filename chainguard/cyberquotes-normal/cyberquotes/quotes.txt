@@ -1,0 +1,5 @@
+Zero Trust is a strategy and framework that acknowledges that threats exist both inside and outside the network. It requires strict verification of each person and device whenever accessing resources on a private network. – John Kindervag, Creator of Zero Trust
+A WAF is like having a security guard at the entrance of your web applications. It checks the credentials of everyone trying to get in and blocks those who don’t meet the criteria. – Evan Johnson, Senior Manager, Security Engineering at Cloudflare
+Social engineering attacks are becoming increasingly sophisticated and often target the weakest link in security – the human element. Training and awareness are critical to defend against these threats. – Kevin Mitnick, Chief Hacking Officer at KnowBe4
+Cybersecurity is not just a technology problem – it’s a business risk that needs to be managed at the highest level of an organization. – Dmitri Alperovitch, Co-Founder of CrowdStrike
+The best way to predict the future is to invent it. In cybersecurity, this means proactively identifying and mitigating potential threats before they can cause harm. – Alan Kay, Computer Scientist

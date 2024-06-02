@@ -1,0 +1,50 @@
+AWSTemplateFormatVersion: '2010-09-09'
+
+Description: This template launches an Ubuntu t2-micro EC2 instance for Docker Security Testing.
+
+# Input Parameter for SSH IP
+Parameters:
+ MyIPAddress:
+    Type: String
+    Description: IP Address with access to instance
+
+# Infra
+Resources:
+  ChainGuardInstanceSG:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Security group for SSH and Docker
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: !Ref MyIPAddress
+        - IpProtocol: -1
+          FromPort: 0
+          ToPort: 5000
+          CidrIp: !Ref MyIPAddress
+
+  ChainGuardInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-04b70fa74e45c3917  
+      InstanceType: t2.micro
+      KeyName: cyberwoxtesting
+      SecurityGroupIds:
+        - !GetAtt ChainGuardInstanceSG.GroupId
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          apt-get update -y
+          apt install python3-pip
+          curl -fsSL https://get.docker.com -o get-docker.sh 
+          sh get-docker.sh
+          groupadd docker
+          usermod -aG docker ubuntu
+          reboot
+
+# Output Parameter for Instance IP
+Outputs:
+  InstancePublicIp:
+    Description: The public IP address of the EC2 instance
+    Value: !GetAtt ChainGuardInstance.PublicIp
