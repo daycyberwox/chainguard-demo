@@ -24,7 +24,7 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       ImageId: ami-04b70fa74e45c3917  
-      InstanceType: t2.micro
+      InstanceType: t2.medium
       KeyName: cyberwoxtesting
       SecurityGroupIds:
         - !GetAtt ChainGuardInstanceSG.GroupId
