@@ -1,0 +1,65 @@
+Zero Trust is a strategy and framework that acknowledges that threats exist both inside and outside the network. It requires strict verification of each person and device whenever accessing resources on a private network. – John Kindervag, Creator of Zero Trust
+A WAF is like having a security guard at the entrance of your web applications. It checks the credentials of everyone trying to get in and blocks those who don’t meet the criteria. – Evan Johnson, Senior Manager, Security Engineering at Cloudflare
+Social engineering attacks are becoming increasingly sophisticated and often target the weakest link in security – the human element. Training and awareness are critical to defend against these threats. – Kevin Mitnick, Chief Hacking Officer at KnowBe4
+Cybersecurity is not just a technology problem – it’s a business risk that needs to be managed at the highest level of an organization. – Dmitri Alperovitch, Co-Founder of CrowdStrike
+The best way to predict the future is to invent it. In cybersecurity, this means proactively identifying and mitigating potential threats before they can cause harm. – Alan Kay, Computer Scientist
+Cyber-Security is much more than a matter of IT. - Stephane Nappo, Global Chief Information Security Officer
+As cybersecurity leaders, we have to create our message of influence because security is a culture, and you need the business to take place and be part of that security culture. - Britney Hommertzheim, Director of Information Security
+There are only two different types of companies in the world: those that have been breached and know it and those that have been breached and don’t know it. - Ted Schlein, Partner at Kleiner Perkins
+We discovered in our research that insider threats are not viewed as seriously as external threats, like a cyberattack. But when companies had an insider threat, in general, they were much more costly than external incidents. This was largely because the insider that is smart has the skills to hide the crime, for months, for years, sometimes forever. - Dr. Larry Ponemon, Chairman and Founder of the Ponemon Institute
+It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it. - Stephane Nappo, Global Chief Information Security Officer
+To competently perform rectifying security service, two critical incident response elements are necessary: information and organization. - Robert Davis, Chief Information Security Officer at HP
+There’s no silver bullet with cybersecurity; a layered defense is the only viable option. - James Scott, Senior Fellow at Institute for Critical Infrastructure Technology
+If you think you know-it-all all about cybersecurity, this discipline was probably ill-explained to you. - Stephane Nappo, Global Chief Information Security Officer
+Hacking just means building something quickly or testing the boundaries of what can be done. - Mark Zuckerberg, Co-Founder of Facebook
+Security used to be an inconvenience sometimes, but now it’s a necessity all the time. - Martina Navratilova, Tennis Player and Coach
+A breach alone is not a disaster, but mishandling it is. - Serene Davis, Security Consultant
+Growth hackers are typically computer engineers that build great marketing ideas into the product during the development process. - Ryan Holiday, Author and Marketer
+If security were all that mattered, computers would never be turned on, let alone hooked into a network with literally millions of potential intruders. - Dan Farmer, Computer Security Researcher
+Computer hackers do not need to know each other’s real names, or even live on the same continent, to steal millions in mere hours. - Robert Mueller, Former Director of the FBI
+Cybercrime is the greatest threat to every company in the world. - Ginni Rometty, Executive Chairman of IBM
+If you think technology can solve your security problems, then you don’t understand the problems, and you don’t understand the technology. - Bruce Schneier, Security Technologist and Author
+Garbage can provide important details for hackers: names, telephone numbers, a company’s internal jargon. - Kevin Mitnick, Security Consultant and Author
+As the world is increasingly interconnected, everyone shares the responsibility of securing cyberspace. - Newton Lee, Author and Futurist
+It is a fairly open secret that almost all systems can be hacked, somehow. It is less spoken of secret that such hacking has actually gone quite mainstream. - Dan Kaminsky, Security Researcher
+If you spend more on coffee than on IT security, you will be hacked. What’s more, you deserve to be hacked. - Richard Clarke, Former National Coordinator for Security, Infrastructure Protection, and Counter-terrorism
+Hackers rarely have full knowledge of the technology stack of a target. - John McAfee, Founder of McAfee
+Companies spend millions of dollars on firewalls, encryption, and secure access devices, and it’s money wasted; none of these measures address the weakest link in the security chain. - Kevin Mitnick, Security Consultant and Author
+No technology that’s connected to the internet is unhackable. - Abhijit Naskar, Neuroscientist and Author
+Security is always excessive until it’s not enough. - Robbie Sinclair, Head of Security, Data Protection Advisor
+Never underestimate the determination of a kid who is time-rich and cash-poor. - Cory Doctorow, Author and Activist
+In the underworld, reality itself has elastic properties and is capable of being stretched into different definitions of the truth. - Roderick Vincent, Author
+Phishing is a major problem because there really is no patch for human stupidity. - Mike Danseglio, Security Professional
+The internet is about to start killing people, and the government regulates things that kill people. - Bruce Schneier, Security Technologist and Author
+We’re all going to have to change how we think about data protection. - Elizabeth Denham, Information Commissioner
+Privacy — like eating and breathing — is one of life’s basic requirements. - Katherine Neville, Author
+A data breach is about both privacy and security. And security becomes very, very important because you can’t have privacy unless you have good security. And if someone tries to say otherwise, they are crazy people! - Dr. Larry Ponemon, Chairman and Founder of the Ponemon Institute
+The knock-on effect of a data breach can be devastating for a company. When customers start taking their business—and their money—elsewhere, that can be a real body blow. - Christopher Graham, Former Information Commissioner
+Should we fear hackers? The intention is at the heart of this discussion. - Kevin Mitnick, Security Consultant and Author
+In the digital era, privacy must be a priority. Is it just me, or is secret blanket surveillance obscenely outrageous? - Al Gore, Former Vice President of the United States
+There are two types of companies: those that have been hacked, and those who don’t know they have been hacked. - John Chambers, Former Executive Chairman and CEO of Cisco
+Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say. - Edward Snowden, Former NSA Contractor and Whistleblower
+The only way to maintain privacy on the internet is to not be on the internet. - Abhijit Naskar, Neuroscientist and Author
+The wonderful thing about the Internet is that you’re connected to everyone else. The terrible thing about the Internet is that you’re connected to everyone else. - Vinton Cerf, Co-Inventor of the Internet
+There’s no silver bullet solution with cyber security; a layered defense is the only viable defense. - James Scott, Senior Fellow at Institute for Critical Infrastructure Technology
+An ounce of prevention is worth a pound of cure. - Benjamin Franklin, Founding Father of the United States
+Privacy should not be a luxury good. - Sundar Pichai, CEO of Alphabet Inc. and its subsidiary Google
+The weakest link in the security chain is the human element. - Kevin Mitnick, Security Consultant and Author
+People often represent the weakest link in the security chain and are chronically responsible for the failure of security systems. - Bruce Schneier, Security Technologist and Author
+The only secure computer is one that’s unplugged, locked in a safe, and buried 20 feet under the ground. - Frank Abagnale, Security Consultant and Former Con Artist
+Privacy – like eating and breathing – is one of life’s basic requirements. - Katherine Neville, Author
+The most promising privacy thing is stupid phones. I’m dumping all my smartphones. - John McAfee, Founder of McAfee
+There is no patch for careless, greedy, or stupid. - Chuck Norris, Martial Artist and Actor
+It’s so much easier to suggest solutions when you don’t know too much about the problem. - Malcolm Forbes, Publisher of Forbes Magazine
+Invincibility lies in the defense; the possibility of victory in the attack. - Sun Tzu, Military Strategist
+Before software can be reusable, it first has to be usable. - Ralph Johnson, Computer Scientist
+Hackers are the immune system for the Information Age. - Keren Elazari, Cybersecurity Researcher
+Privacy is not for the passive. - Jeffrey Rosen, Law Professor
+Let’s face it: the future is now. We are already living in a cyber society, so we need to stop ignoring it or pretending that it is not affecting us. - Marco Ciappelli, Cybersecurity Expert
+Security program design must start with a risk assessment: enterprise risk, business risk, regulatory risk, technology risk, and industry risk. And you must keep looking at what’s happening in the world right now that could heighten these. - Tim Callahan, Chief Security Officer at Aflac
+60% of data breaches are caused by a failure to patch. If you correct that, you’ve eliminated 60% of breaches. And I didn’t even have to say AI or Blockchain! See how that works? - Ricardo Lafosse, Chief Information Security Officer at Kraft Heinz
+In the aviation industry, safety is job 1. So we’re not using the word cybersecurity; we’re using the word safety. Safety of the digital self. And that resonates with our 80,000+ employees at Delta. - Deborah Wheeler, Chief Information Security Officer at Delta Airlines
+Certain trusted individuals from critical companies need to receive government security clearances. It’s not just for the CEOs. It’s not just for the CTOs or the CIOs; it is for everybody who is involved in this directly. They have to be trusted people; they have to be vetted. And it will take some time to do this. But that’s one step because we really have to be on the same team. - Col. Cedric Leighton, Founder and Chairman of Leighton Associates Inc.
+I look for alignment with the purpose of what a startup company is trying to accomplish. Ethics matter significantly to me. Their behavior needs to treat the issue of cybersecurity like it’s something we can solve together. - Maarten Van Horenbeeck, Chief Information Security Officer at Zendesk
+Since 2016, BEC losses have topped $26 billion. And that’s just the tip of the iceberg because many are too embarrassed to report it. Everyone and every organization is a potential target. - Chris McMahon, Security Expert
+There’s not a ‘one and done’ solution for cybersecurity, no silver bullet as we like to call it. With cyber, there needs to be continuous care and feeding of the program. It’s a program that requires ongoing improvement. And that’s something very important to explain to the board. - Zaki Abbas, Chief Information Security Officer at IDC
