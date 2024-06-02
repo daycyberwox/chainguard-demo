@@ -19,10 +19,6 @@ Resources:
           FromPort: 22
           ToPort: 22
           CidrIp: !Ref MyIPAddress
-        - IpProtocol: -1
-          FromPort: 0
-          ToPort: 5000
-          CidrIp: !Ref MyIPAddress
 
   ChainGuardInstance:
     Type: AWS::EC2::Instance
